@@ -19,3 +19,5 @@
 ## 6. __Expirience: [codeacademy](https://www.codecademy.com/users/serezhishe/achievements)  [codewars](https://www.codewars.com/users/serezhishe)__
 ## 7. __Education__- second-year student of __Belorusian State University of Informatics and Radioelectronics (BSUIR)__ - _Faculty of Information Technologies and Control_
 ## 8. __English level - Intermediate (B1)__
+![English epam test](/screenshots/screen1.png)
+![English epam test](/screenshots/screen2.png)
