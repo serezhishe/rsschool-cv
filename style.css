@@ -41,3 +41,11 @@ span {
   left: -100px;
   top: -100px;
 }
+
+a:hover {
+  color: #2eb398;
+}
+
+a:visited {
+  color: rgb(99, 30, 30);
+}
